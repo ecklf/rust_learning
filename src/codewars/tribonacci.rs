@@ -1,4 +1,5 @@
 #![allow(dead_code)]
+
 /*
 Well met with Fibonacci bigger brother, AKA Tribonacci.
 
