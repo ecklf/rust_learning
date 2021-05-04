@@ -1,0 +1,3 @@
+mod codewars;
+
+fn main() {}
