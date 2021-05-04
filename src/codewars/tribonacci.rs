@@ -34,5 +34,5 @@ fn tribonacci(signature: &[f64; 3], n: usize) -> Vec<f64> {
 
 fn main() {
     let signature: [f64; 3] = [0., 1., 1.];
-    tribonacci(&signature, 10);
+    dbg!(tribonacci(&signature, 10));
 }
